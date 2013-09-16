@@ -37,4 +37,4 @@ puts '';
 
 var1 = 'eight';
 puts var1;
-puts var2;
+puts var2; # Will yield '8' because var2 was never reassigned to the new value of var1
